@@ -1,0 +1,11 @@
+.contenedor-addtodo{
+    margin: 40px;
+}
+button{
+    background-color: #7A8BE6;
+    margin: 4px 8px 4px 8px;
+}
+input{
+    background-color: #ffffff;
+    margin: 8px;
+}

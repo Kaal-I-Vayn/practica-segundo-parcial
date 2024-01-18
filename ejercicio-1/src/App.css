@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 28px;
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #6FACED;
+  margin-top: 30%;
+}
+.title{
+  padding: 12px;
+  
+}
+

@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #B0E685;    
+}
+
+.App {
+  display: flex;  
+  flex-direction: column;
+}
+
+

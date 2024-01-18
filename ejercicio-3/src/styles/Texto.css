@@ -1,0 +1,10 @@
+.contenedor-texto{
+    background-color: #E69265;
+    border-radius: 8px;
+    margin: 8px;
+    width: 500px;
+    height: auto;
+}
+.title{
+    font-size: 18px;
+}
